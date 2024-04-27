@@ -1,0 +1,12 @@
+[
+	{
+		"monitorName": "SupraMonitor",
+		"source": "1217879247767474187",
+		"name": "Supra",
+		"yearFrame": [
+			"1993",
+			"1998"
+		],
+		"milesRange": "lessThan"
+	}
+]
